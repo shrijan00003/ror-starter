@@ -2,8 +2,8 @@
 
 ## creating controllers
 
-- rails g/generate controller Posts
+- `rails g/generate controller Posts`
 
-##routing
+## routing
 
 - `root 'posts#index'`
