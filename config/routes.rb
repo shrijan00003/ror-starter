@@ -4,4 +4,7 @@ Rails.application.routes.draw do
   
   #for getting get about
   get 'about'=>'pages#about'
+
+  # resource routes
+  resources :posts
 end
